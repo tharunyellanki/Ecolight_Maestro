@@ -30,7 +30,16 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 - Flash Magic for programming  
 - Proteus (for simulation)  
 
+# System Workflow (ECOlight Maestro)
 
+- Startup → Initialize LCD, RTC, ADC, LEDs, Relay.
+- RTC Check → If current time matches schedule → Light ON, Green LED ON.
+- Else → LDR sensor checks brightness →
+     - Dark → Light ON
+     - Bright → Light OFF
+- Red LED ON (Auto mode).
+- LCD Display → Shows RTC time + Light status.
+- Admin Mode → Press switch → directly update RTC / modify schedules.
 
 
   
