@@ -37,9 +37,8 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 - Else → LDR sensor checks brightness →
      - Dark → Light ON
      - Bright → Light OFF
-- Red LED ON (Auto mode).
-- LCD Display → Shows RTC time + Light status.
-- Admin Mode → Press switch → directly update RTC / modify schedules.
+- LCD Display → Shows RTC time + Light status(ON/OFF).
+- User Mode → Press switch → directly update RTC / modify schedules.
 
 
   
