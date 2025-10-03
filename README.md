@@ -17,17 +17,19 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 
 ## Tech Specifications  
 ### Hardware  
-o	LPC2148 Microcontroller  
-o	Light Dependent Resistor (LDR)  
-o	LEDS //Prototype Instead-> Street Lights 
-o 16x2 LCD Display
-o	Switch
+•	LPC2148 Microcontroller  
+•	Light Dependent Resistor (LDR)  
+•	LEDS //Prototype Instead-> Street Lights 
+•	16x2 LCD Display 
+•	Switch 
+
 
 ---
 ###  Software  
-o	Embedded C (Keil µVision)  
-o	Flash Magic for programming  
-o	Proteus (for simulation)
+•	Embedded C (Keil µVision) 
+•	Flash Magic for programming  
+•	Proteus (for simulation)  
+
 
 
   
