@@ -14,8 +14,8 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 
 # 🖼️ Block Diagram
 <img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/e29aa197-0020-4275-af90-915c8d0ec12e" />
-## Tech Specifications  
 
+## Tech Specifications  
 ### Hardware  
 o	LPC2148 Microcontroller  
 o	Light Dependent Resistor (LDR)  
