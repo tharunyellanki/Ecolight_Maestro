@@ -17,11 +17,11 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 
 ## Tech Specifications  
 ### Hardware  
-•	LPC2148 Microcontroller  
-•	Light Dependent Resistor (LDR) 
-• 16x2 LCD
-•	LEDS
-• Switch
+-LPC2148 Microcontroller  
+- Light Dependent Resistor (LDR)  
+- LEDS
+- 16x2 LCD Display  
+- Switch
 
 
 ---
