@@ -19,7 +19,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 ### Hardware  
 •	LPC2148 Microcontroller  
 •	Light Dependent Resistor (LDR)  
-•	LEDS //Prototype Instead-> Street Lights 
+•	LEDS
 •	16x2 LCD Display 
 •	Switch 
 
