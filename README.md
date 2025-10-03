@@ -30,7 +30,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 - Flash Magic for programming  
 - Proteus (for simulation)  
 
-# System Workflow
+## System Workflow
 
 - Startup → Initialize LCD, RTC, ADC, LEDs, Relay.
 - RTC Check → If current time matches schedule → Light ON, Green LED ON.
