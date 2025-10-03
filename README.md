@@ -33,7 +33,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 ## System Workflow
 
 - Startup → Initialize LCD, RTC, ADC, LEDs, Relay.
-- RTC Check → If current time matches schedule → Light ON, Green LED ON.
+- RTC Check → If current time matches schedule → Light ON.
 - Else → LDR sensor checks brightness →
      - Dark → Light ON
      - Bright → Light OFF
