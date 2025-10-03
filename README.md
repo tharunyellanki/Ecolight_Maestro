@@ -22,6 +22,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 - LEDS(Street Lights)
 - 16x2 LCD Display  
 - Switch
+- KeyPad Matrix(4x4)
 
 
 ---
@@ -39,6 +40,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
      - Bright → Light OFF
 - LCD Display → Shows RTC time + Light status(ON/OFF).
 - User Mode → Press switch → directly update RTC / modify schedules.
-
+## Hardware Setup (Proteus)
+<img width="1180" height="834" alt="image" src="https://github.com/user-attachments/assets/5b9068df-3f85-487c-8ccd-d1d4f8b16f9e" />
 
   
