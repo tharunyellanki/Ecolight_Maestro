@@ -20,7 +20,7 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 o	LPC2148 Microcontroller  
 o	Light Dependent Resistor (LDR)  
 o	LEDS //Prototype Instead-> Street Lights 
-o	16x2 LCD Display
+o 16x2 LCD Display
 o	Switch
 
 ---
