@@ -51,17 +51,28 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 ## 📁 Project Structure
 
 ```
-├── main.c              // Main control loop
-├── defines.h           // Global definitions
-├── delay.h             // Delay functions
-├── lcd_defines.h       // LCD control macros
-├── Interruptenable.h   // External interrupt setup
-├── kpm.h               // Keypad scanning functions
-├── LCD_INIT.h          // LCD initialization
-├── RTC.h               // RTC variable definitions and setup
-├── adc.h               // ADC interface
-├── types.h             // Custom data types
-├── README.md           // This file
+├── main_file.c // Main program file – integrates LCD, RTC, ADC, Keypad, Workflow
+├── defines.h // Global macros & constants
+├── delay.c // Delay function implementations
+├── delay.h // Delay function prototypes
+├── lcd.c // LCD driver implementation
+├── lcd.h // LCD function prototypes
+├── lcd_defines.h // LCD control macros
+├── kpm.c // Keypad module implementation
+├── kpm.h // Keypad function prototypes
+├── kpm_defines.h // Keypad-related macros
+├── rtc.c // RTC functions (set/get/display time)
+├── rtc.h // RTC interface prototypes
+├── rtc_defines.h // RTC register definitions
+├── edit_rtc.c // RTC edit/update logic (time change)
+├── edit_rtc.h // RTC edit function prototypes
+├── adc.c // ADC source (LDR sensor)
+├── adc.h // ADC function prototypes
+├── adc_defines.h // ADC macros & constants
+├── pin_connect_block.c // Pin configuration routines
+├── pin_connect_block.h // Pin definitions & macros
+├── types.h // Common typedefs (u8, u16, etc.)
+├── README.md // Project documentation
 ```
 
 ---
