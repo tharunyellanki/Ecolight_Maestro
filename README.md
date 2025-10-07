@@ -48,41 +48,23 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 <img width="1179" height="831" alt="image" src="https://github.com/user-attachments/assets/225d7db1-9818-4581-b3ac-1d2f1f8ad4e8" />
 <img width="1183" height="834" alt="image" src="https://github.com/user-attachments/assets/cbb7f341-f21f-4acb-aa36-c5c3d19faff9" />
 
-## 📂 Project Structure  
+## 📁 Project Structure
 
-ECOlight-Maestro/
-│── README.md                 # Project documentation
-│
-│── adc.c                     # ADC (LDR sensor) source file
-│── adc.h                     # ADC function prototypes
-│── adc_defines.h             # ADC related macros & definitions
-│
-│── defines.h                 # Global macros & constants
-│
-│── delay.c                   # Delay function implementations
-│── delay.h                   # Delay function prototypes
-│
-│── edit_rtc.c                # RTC edit/update logic (time set/change)
-│── edit_rtc.h                # RTC edit function prototypes
-│
-│── kpm.c                     # Keypad module implementation
-│── kpm.h                     # Keypad module prototypes
-│── kpm_defines.h             # Keypad-related macros
-│
-│── lcd.c                     # LCD driver implementation
-│── lcd.h                     # LCD function prototypes
-│── lcd_defines.h             # LCD control macros
-│
-│── main_file.c               # Main application logic (system workflow)
-│
-│── pin_connect_block.c       # Pin configuration routines
-│── pin_connect_block.h       # Pin definitions & macros
-│
-│── rtc.c                     # RTC (DS1307/DS3231) functions
-│── rtc.h                     # RTC interface prototypes
-│── rtc_defines.h             # RTC register addresses & macros
-│
-│── types.h                   # Common typedefs (u8, u16, etc.)
+```
+├── main.c              // Main control loop
+├── defines.h           // Global definitions
+├── delay.h             // Delay functions
+├── lcd_defines.h       // LCD control macros
+├── Interruptenable.h   // External interrupt setup
+├── kpm.h               // Keypad scanning functions
+├── LCD_INIT.h          // LCD initialization
+├── RTC.h               // RTC variable definitions and setup
+├── adc.h               // ADC interface
+├── types.h             // Custom data types
+├── README.md           // This file
+```
+
+---
 
 
   
