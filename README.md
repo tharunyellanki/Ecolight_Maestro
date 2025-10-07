@@ -48,7 +48,8 @@ It demonstrates the real-time working of embedded systems for **sustainable smar
 <img width="1179" height="831" alt="image" src="https://github.com/user-attachments/assets/225d7db1-9818-4581-b3ac-1d2f1f8ad4e8" />
 <img width="1183" height="834" alt="image" src="https://github.com/user-attachments/assets/cbb7f341-f21f-4acb-aa36-c5c3d19faff9" />
 
-## 📂 Project Structure
+## 📂 Project Structure  
+
 ECOlight-Maestro/
 │── README.md                 # Project documentation
 │
